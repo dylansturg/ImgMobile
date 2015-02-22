@@ -20,7 +20,7 @@ namespace ImgMobileAndroid
         {
             get
             {
-                return "";
+                return _ctx.GetString(Resource.String.imgur_client_id);
             }
         }
 
@@ -28,7 +28,7 @@ namespace ImgMobileAndroid
         {
             get
             {
-                return "";
+                return _ctx.GetString(Resource.String.imgur_client_secret);
             }
         }
 
