@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">ImgMobile</string>
+  
+    <string name="MainMenuLegal">View Boring Stuff</string>
+
+    <string name="LegalInfoTitle">Boring Stuff - Legal blah blah...</string>
+    <string name="LegalInfoIconsTitle">Icons...</string>
+    <string name="LegalInfoIcons">The launcher icon for this application is linkware courtesy of http://www.how-to-draw-funny-cartoons.com/ and I thank them for their contribution.  This application used Android Asset Studio (http://romannurik.github.io/AndroidAssetStudio/index.html) to help with creating various icons and I thank them for their great project!</string>
+
+    <string name="LoginActivity">Login to Imgur</string>
+    <string name="LoginActivityButton">Onward!</string>
+</resources>
