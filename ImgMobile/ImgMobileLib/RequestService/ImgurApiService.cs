@@ -13,7 +13,6 @@ namespace ImgMobileLib.RequestService
 
         public ImgurApiService()
         {
-
         }
 
         public ImgurApiService(String id, String secret)
